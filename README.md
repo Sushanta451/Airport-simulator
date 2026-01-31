@@ -6,10 +6,12 @@ My project is a air traffic control simulator that helps manage how planes move 
 
 
 Primary users:
+
 This product is for people who like simulation games or are interested in how air traffic control works. It could be a good tool for students learning about best pathing for planes routes and with the use of automation trafice, they could learn how ai is able to do it.
 
 
 Features:
+
 1)Radar display- it is the main screen that shows aircraft positions, flight paths, and critical data like speed and destination
 2)Aircraft Data- it show unique flight id, alittude, speed 
 3)Conflict Alerts systen: An alarm that flashes red if two planes are about to get too close to each other.
@@ -19,6 +21,7 @@ Features:
 
 
 Benefits:
+
 1)Safety traning:- Users will get to learn how to spot potential crashes before they happen using the alert system.
 2)Traffice handling- The AI handles the repetitive flying, so the user only has to worry about fixing the most dangerous situations
 3)Learn best routing skills
