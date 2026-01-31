@@ -1,7 +1,7 @@
 # Airport-simulator
 
 Project pitch.
-My project is a air traffic control simulator that helps manage how planes move around a small(busy) airport without crashing into each other. I want to build a system where an AI handles most of the boring routing automatically, but the user can jump in whenever they want to take control and change a plane's path. It’s basically like a game where you try to keep everything running smoothly during "rush hour" by managing three different types of planes, ones landing, ones taking off, and ones just passing through the area to see if an automated system can actually make the airport more efficient.
+My project is a air traffic control simulator that helps manage how planes move around the air space of a small(busy) airport without crashing into each other. I want to build a system where an AI handles most of the boring routing automatically, but the user can jump in whenever they want to take control and change a plane's path. It’s basically like a game where you try to keep everything running smoothly during "rush hour" by managing three different types of planes, ones landing, ones taking off, and ones just passing through the area to see if an automated system can actually make the airport more efficient.
 
 
 
